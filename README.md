@@ -1,2 +1,2 @@
 # Blender-Hologram-Addon
-More advanced Python development providing an interface for creating holographic materials.
+An interface for creating holographic materials for active objects.
